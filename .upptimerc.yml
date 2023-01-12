@@ -14,7 +14,7 @@ sites:
   - name: Agroinsoca
     url: https://agroinsoca.com
     
- assignees:
+assignees:
    - trujillo66
 
 status-website:
