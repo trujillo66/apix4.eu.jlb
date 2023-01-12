@@ -3,14 +3,16 @@ owner: trujillo66 # Your GitHub organization or username, where this repository 
 repo: apix4.eu.jlb # The name of this repository
 
 sites:
+  - name: Vida Automercados
+    url: https://vidaautomercados.com
+  - name: Alimentos el Maizal
+    url: https://alimentoselmaizal.com
   - name: Corporacion JLB
     url: https://corporacionjlb.com
   - name: Agrohorbeca
     url: https://agrohorbeca.com
   - name: Agroinsoca
     url: https://agroinsoca.com
-  - name: Vida Automercados
-    url: https://vidaautomercados.com
     
  assignees:
    - trujillo66
@@ -21,7 +23,7 @@ status-website:
   cname: jlb.apix4.eu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Domingo Trujillo
+  name: Status JLB
   introTitle: "Página de status, powered by **Upptime**"
   introMessage: Monitoreo **real-time** (https://github.com/upptime/upptime)
   navbar:
