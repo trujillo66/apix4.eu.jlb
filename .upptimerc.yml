@@ -14,8 +14,8 @@ sites:
   - name: Agroinsoca
     url: https://agroinsoca.com
     
-#assignees:
-#   - trujillo66
+assignees:
+   - trujillo66
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -26,11 +26,11 @@ status-website:
   name: Grupo JLB
   introTitle: "Status de los sitios **Grupo JLB**"
   introMessage: Monitoreo **real-time**
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+#  navbar:
+#    - title: Status
+#      href: /
+#    - title: GitHub
+#      href: https://github.com/$OWNER/$REPO
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
