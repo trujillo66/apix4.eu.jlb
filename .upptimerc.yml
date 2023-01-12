@@ -22,7 +22,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: jlb.apix4.eu
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+#  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://corporacionjlb.com/images/jlb.png
   name: Grupo JLB
   introTitle: "Status de los sitios **Grupo JLB**"
   introMessage: Monitoreo **real-time**
