@@ -23,9 +23,9 @@ status-website:
   cname: jlb.apix4.eu
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Status JLB
-  introTitle: "Página de status, powered by **Upptime**"
-  introMessage: Monitoreo **real-time** (https://github.com/upptime/upptime)
+  name: Grupo JLB
+  introTitle: "Status de los sitios **Grupo JLB**"
+  introMessage: Monitoreo **real-time**
   navbar:
     - title: Status
       href: /
