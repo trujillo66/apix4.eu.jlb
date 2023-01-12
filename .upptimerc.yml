@@ -1,6 +1,6 @@
 # Change these first
-owner: trujillo66 # Your GitHub organization or username, where this repository lives
-repo: apix4.eu.jlb # The name of this repository
+owner: trujillo66
+repo: apix4.eu.jlb
 
 sites:
   - name: Vida Automercados
@@ -18,10 +18,7 @@ assignees:
    - trujillo66
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: jlb.apix4.eu
-  # baseUrl: /your-repo-name
 #  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://corporacionjlb.com/images/jlb.png
   name: Grupo JLB
@@ -37,5 +34,58 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  footer: powered by [Upptime](https://upptime.js.org)
-  
+  footer: Powered by [Upptime](https://upptime.js.org)
+  activeIncidents: Incidentes Activos
+  allSystemsOperational: Todos los sistemas están operativos.
+  incidentReport: "Informe de incidente #$NUMBER →"
+  activeIncidentSummary: Abierto el $DATE con $POSTS publicaciones
+  incidentTitle: Incidente $NUMBER Detalles
+  incidentDetails: Detalles del incidente
+  incidentFixed: Solucionado
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto a las
+  incidentClosedAt: Cerrado a las
+  incidentViewOnGitHub: Ver y suscribirse en GitHub
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS publicaciones
+  liveStatus: Estado en vivo
+  overallUptime: "Tiempo de actividad general: $UPTIME"
+  overallUptimeTitle: Tiempo de actividad general
+  averageResponseTime: "Tiempo promedio de respuesta: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: tiempo de respuesta de 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: Arriba
+  down: Caido
+  degraded: Degradado
+  ms: ms
+  loading: Cargando
+  navGitHub: GitHub
+  rateLimitExceededTitle: Excede el límite de velocidad
+  rateLimitExceededIntro: Ha superado el número de solicitudes que puede realizar en una hora, por lo que tendrá que esperar antes de volver a acceder a este sitio web. Alternativamente, puede agregar un token de acceso personal de GitHub para continuar usando este sitio web.
+  rateLimitExceededWhatDoesErrorMean: ¿Qué significa este error?
+  rateLimitExceededErrorMeaning: Este sitio web utiliza la API de GitHub para acceder a datos en tiempo real sobre el estado de nuestros sitios web. De manera predeterminada, GitHub permite que cada dirección IP realice 60 solicitudes por hora, las que ha consumido.
+  rateLimitExceededErrorHowCanFix: ¿Cómo puedo arreglarlo?
+  rateLimitExceededErrorFix: Puede esperar otra hora y se restablecerá el límite de su dirección IP. Como alternativa, puede agregar su token de acceso personal de GitHub, que le brinda 5000 solicitudes adicionales por hora.
+  rateLimitExceededGeneratePAT: Aprenda a generar un token de acceso personal
+  rateLimitExceededHasSet: Tienes un conjunto de tokens de acceso personal.
+  rateLimitExceededRemoveToken: Quitar token
+  rateLimitExceededGitHubPAT: Token de acceso personal de GitHub
+  rateLimitExceededCopyPastePAT: Copia y pega tu token
+  rateLimitExceededSaveToken: Guardar token
+  errorTitle: Ocurrió un error
+  errorIntro: Se produjo un error al intentar obtener los detalles de estado más recientes.
+  errorText: Puedes volver a intentarlo en unos momentos.
+  errorHome: Ir a la pagina principal
+  pastScheduledMaintenance: Mantenimiento programado pasado
+  scheduledMaintenance: Mantenimiento Programado
+  scheduledMaintenanceSummaryStarted: Comenzó el $DATE por $DURATION minutos
+  scheduledMaintenanceSummaryStarts: Comienza en $DATE por $DURATION minutos
+  startedAt: Empezó a las
+  startsAt: Empieza a
+  duration: Duración
+  durationMin: $DURATION minutos
+  incidentCompleted: Terminado
+  incidentScheduled: Programado
