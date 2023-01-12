@@ -26,7 +26,7 @@ status-website:
   logoUrl: https://corporacionjlb.com/images/jlb.png
   name: Grupo JLB
   introTitle: "Status de los sitios **Grupo JLB**"
-  introMessage: Monitoreo **real-time**
+  introMessage: Monitoreo **real-time** by APIX4.eu
 #  navbar:
 #    - title: Status
 #      href: /
